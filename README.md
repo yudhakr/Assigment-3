@@ -1,4 +1,7 @@
-# Project Intermediate VUE
+# Project Assignment Advance Frontend
+--Intruksi--
+- Project assigment dijadikan 2 page (page katalog & page keranjang) menggunakan vuex
+- Penambahan button navigasi penghubung page
 
 ## Project Setup
 
